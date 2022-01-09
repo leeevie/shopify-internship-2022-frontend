@@ -1,0 +1,11 @@
+.liked {
+    color: red !important;
+}
+
+.unliked {
+    color: gray !important;
+}
+
+.btn-like {
+    float: right;
+}
