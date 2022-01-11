@@ -10,7 +10,7 @@ npm install
 node server.js
 ```
 
-Open a browser and navigate to http://localhost:3001/home.
+Open a browser and navigate to http://localhost:3001/.
 
 ## Production
 
