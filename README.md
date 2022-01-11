@@ -14,4 +14,4 @@ Open a browser and navigate to http://localhost:3001/.
 
 ## Production
 
-Hosted on Heroku (link incoming)
+[Hosted on Heroku](https://shopify-intern-frontend-2022.herokuapp.com/).
