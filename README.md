@@ -1,5 +1,5 @@
 # shopify-internship-2022-frontend
-Evie Lee's submission for the Shopify 2022 Internship Frontend Challenge.
+Evie Lee's submission for the Shopify 2022 Internship Frontend Challenge, built with Node.js and Bootstrap.
 
 [Job posting on SmartRecruiters](https://jobs.smartrecruiters.com/Shopify/743999796507853-frontend-developer-intern-summer-2022-remote-us-canada-).
 
